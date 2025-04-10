@@ -5,24 +5,20 @@
         android:id="@+id/mNews"
         android:icon="@drawable/baseline_library_books"
         android:title="News"
-        app:showAsAction="ifRoom"
-        />
+        app:showAsAction="ifRoom" />
     <item
         android:id="@+id/mGlobal"
         android:icon="@drawable/baseline_language"
         android:title="Global"
-        app:showAsAction="ifRoom"
-        />
+        app:showAsAction="ifRoom" />
     <item
         android:id="@+id/mForYou"
         android:icon="@drawable/baseline_star"
         android:title="For You"
-        app:showAsAction="ifRoom"
-        />
+        app:showAsAction="ifRoom" />
     <item
         android:id="@+id/mTrending"
         android:icon="@drawable/baseline_transform"
         android:title="Trending"
-        app:showAsAction="ifRoom"
-        />
+        app:showAsAction="ifRoom" />
 </menu>
